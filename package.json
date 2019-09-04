@@ -1,7 +1,7 @@
 {
   "name": "jenifferazevedo.github.io",
   "version": "1.0.0",
-  "homepage": "https://github.com/jenifferazevedo/jenifferazevedo.github.io",
+  "homepage": "http://jenifferazevedo.github.io/jenifferazevedo.github.io",
   "scripts": {
     "dev": "next",
     "build": "next build",
