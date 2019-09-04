@@ -1,7 +1,6 @@
 {
   "name": "with-ant-design",
   "version": "1.0.0",
-  "private": true,
   "homepage": "https://github.com/jenifferazevedo/jenifferazevedo.github.io",
   "scripts": {
     "dev": "next",
